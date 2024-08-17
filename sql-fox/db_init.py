@@ -83,7 +83,8 @@ def db_disconnect(silent: bool = True):
 
 
 def data_type_mapping():
-    data_types_mapping = {}  # Here we automatically create mapping for all sqlalchemy data types.
+    """Here we automatically create mapping for all sqlalchemy data types."""
+    data_types_mapping = {}
     for name, obj in inspect.getmembers(types):
         if inspect.isclass(obj) and issubclass(obj, types.TypeEngine):
             data_types_mapping[name] = obj

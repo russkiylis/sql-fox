@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e629146d-3099-48a7-99f7-4a0f12e27060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sql-fox.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql-fox/Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql-fox/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql-fox/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql-fox/db_init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql-fox/imports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql-fox/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_db_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql-fox/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql-fox/db_init.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "russkiylis"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/russkiylis/sql-fox.git",
+    "accountId": "69376e89-44cb-40df-bfc2-b9efcf36fd14"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -50,23 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_db_connect.py.executor": "Run",
-    "Python tests.Python tests in test_db_init.py.executor": "Debug",
-    "Python tests.pytest in bin.executor": "Run",
-    "Python tests.pytest in test_core.py.executor": "Run",
-    "Python tests.pytest in test_db_init.py.executor": "Run",
-    "Python tests.pytest.executor": "Run",
-    "Python.db_init.executor": "Run",
-    "Python.ht_db_init.executor": "Run",
-    "Python.imports.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "P:/Projects/sql-fox/tests",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_db_connect.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_db_init.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.pytest in bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_core.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_db_init.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ht_db_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imports.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/Projects/sql-fox/tests&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.pytest">
     <configuration name="pytest in test_core.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="sql-fox" />
