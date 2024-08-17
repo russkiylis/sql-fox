@@ -1,7 +1,7 @@
+__all__ = ["session_autoopen_close_decorator", "add", "get", "delete", "update"]
+
 from imports import *
 import settings
-
-global session
 
 
 def session_autoopen_close_decorator(func):

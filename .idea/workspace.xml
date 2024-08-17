@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e629146d-3099-48a7-99f7-4a0f12e27060" name="Changes" comment="trying to make package">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    <list default="true" id="e629146d-3099-48a7-99f7-4a0f12e27060" name="Changes" comment="license">
+      <change afterPath="$PROJECT_DIR$/sql_fox/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/Exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/db_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/imports.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/imports.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql-fox/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_db_init.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "russkiylis"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;russkiylis&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/russkiylis/sql-fox.git",
-    "accountId": "69376e89-44cb-40df-bfc2-b9efcf36fd14"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/russkiylis/sql-fox.git&quot;,
+    &quot;accountId&quot;: &quot;69376e89-44cb-40df-bfc2-b9efcf36fd14&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -55,6 +65,7 @@
     &quot;Python tests.pytest in test_core.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest in test_db_init.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.db_init.executor&quot;: &quot;Run&quot;,
     &quot;Python.ht_db_init.executor&quot;: &quot;Run&quot;,
     &quot;Python.imports.executor&quot;: &quot;Run&quot;,
@@ -179,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723888629139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="license">
+      <option name="closed" value="true" />
+      <created>1723889341726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723889341726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="license">
+      <option name="closed" value="true" />
+      <created>1723889401003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723889401003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +222,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to make package" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to make package" />
+    <MESSAGE value="license" />
+    <option name="LAST_COMMIT_MESSAGE" value="license" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
