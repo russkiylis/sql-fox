@@ -169,8 +169,7 @@ def db_create(db_structure: dict, silent: bool = True) -> dict:
                 else:
                     column_data_type = data_types_mapping[data_type_split[0]]
 
-                flags = {key: value
-                         for key, value in column_attrs.items() if key != 'type'}
+                flags = {key: value for key, value in column_attrs.items() if key not in ('data_type',)}
 
                 table_attrs[column_name] = Column(column_data_type, **flags)  # Table attrs ready to be used in table class creation.
 
