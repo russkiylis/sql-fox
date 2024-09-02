@@ -3,7 +3,7 @@ import sys
 import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../sql_fox')))
-from db_init import db_connect, db_create, db_disconnect, db_check, db_clear_all, db_init
+from sql_fox.db_init import db_connect, db_create, db_disconnect, db_check, db_clear_all, db_init
 
 
 def test_sqlite():
