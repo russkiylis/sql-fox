@@ -7,7 +7,7 @@ from sqlalchemy import create_engine, Column, Integer, String, MetaData, types, 
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, scoped_session
 from sqlalchemy.engine.reflection import Inspector
-from Exceptions import *
+from sql_fox.Exceptions import *
 
 from functools import wraps
 
