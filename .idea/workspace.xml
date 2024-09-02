@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e629146d-3099-48a7-99f7-4a0f12e27060" name="Changes" comment="license">
-      <change afterPath="$PROJECT_DIR$/sql_fox/__init__.py" afterDir="false" />
+    <list default="true" id="e629146d-3099-48a7-99f7-4a0f12e27060" name="Changes" comment="uploaded">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql-fox/Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/Exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql-fox/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql-fox/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql-fox/db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/db_init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql-fox/imports.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/imports.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql-fox/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_fox/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_db_init.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,8 +151,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in test_db_init.py" />
       <item itemvalue="Python tests.pytest in test_core.py" />
+      <item itemvalue="Python tests.pytest in test_db_init.py" />
       <item itemvalue="Python tests.pytest" />
     </list>
   </component>
@@ -206,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723889401003</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uploaded">
+      <option name="closed" value="true" />
+      <created>1723897441540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723897441540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to make package" />
     <MESSAGE value="license" />
-    <option name="LAST_COMMIT_MESSAGE" value="license" />
+    <MESSAGE value="uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

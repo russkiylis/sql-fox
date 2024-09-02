@@ -1,7 +1,7 @@
 __all__ = ["db_connect", "db_disconnect", "data_type_mapping", "db_create", "db_check", "db_clear_all", "db_init"]
 
-from imports import *
-import settings
+from sql_fox.imports import *
+import sql_fox.settings as settings
 
 global __engine, __session, __metadata
 
